@@ -1,0 +1,14 @@
+asgiref==3.8.1
+certifi==2023.11.17
+charset-normalizer==3.3.2
+Django==2.1.15
+django-pyodbc-azure==2.1.0.0
+idna==3.6
+nba_api==1.4.1
+numpy==1.26.4
+pyodbc==5.1.0
+pytz==2024.1
+requests==2.31.0
+sqlparse==0.4.4
+tzdata==2024.1
+urllib3==2.2.1
